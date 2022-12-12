@@ -73,7 +73,7 @@ LineRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -11
   m_Positions:
   - {x: 0, y: 100, z: 1}
   - {x: 0, y: -100, z: 1}
@@ -144,6 +144,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 126fc4530022ad3469e88103127e8c6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 7332659877338672174, guid: a38aaf8392278a34ca3c1f1cdd70da03, type: 3}
   meteor: {fileID: 4694011998281943282, guid: 6317944f742838247852f557f7733565, type: 3}
-  speed: 10
+  speed: 0.6
